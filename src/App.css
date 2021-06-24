@@ -1,0 +1,60 @@
+h1 {
+  margin: 5px auto;
+}
+
+#drum-machine {
+  display: flex;
+  flex-direction: column;
+  border: 5px solid rgb(85, 32, 2);
+  border-radius: 20px;
+  width: 700px;
+  background-color: khaki;
+}
+
+#second-row {
+  display: flex;
+  justify-content: space-between;
+}
+#pad {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  width: 280px;
+  flex-grow: 1;
+}
+#display {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-grow: 3;
+}
+#display h3 {
+  font-size: 2.5em;
+}
+
+.drum-pad {
+  width: 100px;
+  height: 100px;
+  flex-grow: 30%;
+  margin: 10px 2px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #b66523;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.drum-pad:hover {
+  background-color: #f5b728;
+}
+
+.drum-pad:active {
+  background-color: #362909;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
