@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Animal_Drum_Machine/static/css/main.d8883c79.chunk.css",
+    "main.js": "/Animal_Drum_Machine/static/js/main.c0d81442.chunk.js",
+    "main.js.map": "/Animal_Drum_Machine/static/js/main.c0d81442.chunk.js.map",
+    "runtime-main.js": "/Animal_Drum_Machine/static/js/runtime-main.bc13415d.js",
+    "runtime-main.js.map": "/Animal_Drum_Machine/static/js/runtime-main.bc13415d.js.map",
+    "static/js/2.44dc48aa.chunk.js": "/Animal_Drum_Machine/static/js/2.44dc48aa.chunk.js",
+    "static/js/2.44dc48aa.chunk.js.map": "/Animal_Drum_Machine/static/js/2.44dc48aa.chunk.js.map",
+    "static/js/3.778f19d1.chunk.js": "/Animal_Drum_Machine/static/js/3.778f19d1.chunk.js",
+    "static/js/3.778f19d1.chunk.js.map": "/Animal_Drum_Machine/static/js/3.778f19d1.chunk.js.map",
+    "index.html": "/Animal_Drum_Machine/index.html",
+    "static/css/main.d8883c79.chunk.css.map": "/Animal_Drum_Machine/static/css/main.d8883c79.chunk.css.map",
+    "static/js/2.44dc48aa.chunk.js.LICENSE.txt": "/Animal_Drum_Machine/static/js/2.44dc48aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc13415d.js",
+    "static/js/2.44dc48aa.chunk.js",
+    "static/css/main.d8883c79.chunk.css",
+    "static/js/main.c0d81442.chunk.js"
+  ]
+}
