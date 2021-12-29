@@ -1,6 +1,6 @@
 # Dog Bark Drum Machine freeCodeCamp Project#3
 
-![Project Image](https://user-images.githubusercontent.com/79706492/147622733-81acdf19-d4be-4228-ab6b-df8cfb8820d4.png)
+![Project Image](https://user-images.githubusercontent.com/79706492/147692163-294591f3-0326-463b-80cf-52be075262e0.png)
 
 > FCC React Certification Project #3
 ---
@@ -23,7 +23,7 @@ The project is the 5th and final required project for the React certification th
 As I am a drummer myself and a dog lover, I thought it would be fun to make a barking drum machine instead of
 the boring snare and cymbals.
 
-### See it LIVE right [here](https://nickp2791.github.io/pomodoro-react/)
+### See it LIVE right [here](https://nickp2791.github.io/Animal_Drum_Machine/)
 
 #### Technologies
 
@@ -34,6 +34,7 @@ the boring snare and cymbals.
 1. Where to find barking .mp3 clips on the internet (see References)
 2. Editing the mp3's to suite this applcation (see References)
 3. Where to save sounds on a project
+4. Aaigning keyboard keys to the DOM
 
 [Back To The Top](#dog-bark-drum-machine-freecodecamp-project#3)
 
@@ -63,7 +64,8 @@ The app was created using Create React App
 ## References
 
 - Dog Bark Clips [Sound Bible](https://soundbible.com/tags-dog-bark.html)
-- Free online Audio editor [Audio Tool Set] (https://audiotoolset.com/editor)
+- Free online Audio editor [Audio Tool Set](https://audiotoolset.com/editor)
+
 - LinkedIn - [Nicolas Pauletto](https://www.linkedin.com/in/nicolas-pauletto/)
 - Website - [Nicolas Pauletto](https://nicolaspauletto.com)
 
